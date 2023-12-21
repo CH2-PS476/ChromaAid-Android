@@ -1,6 +1,6 @@
 # <img src="https://coral-sonar-408101.uc.r.appspot.com/images/Logo.jpg" alt="Logo Proyek" width="50" height="30"> ChromaAid Application - Mobile Development
-[![Build Status](https://img.shields.io/travis/nama-akun/nama-proyek.svg)](https://travis-ci.org/nama-akun/nama-proyek)
-[![Repo Size](https://img.shields.io/github/repo-size/CH2-PS476/ChromaAid-Android.svg)](https://github.com/CH2-PS476/ChromaAid-Android)
+[![Build Status](https://img.shields.io/travis/CH2-PS476/ChromaAid-Android.svg)](https://travis-ci.org/CH2-PS476/ChromaAid-Android)
+[![Repo Size](https://img.shields.io/github/repo-size/paslian/ChromaAid-Android.svg)](https://github.com/paslian/ChromaAid-Android)
 ![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg)
 ![Language](https://img.shields.io/badge/language-Kotlin-orange.svg)
 
